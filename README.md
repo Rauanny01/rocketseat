@@ -18,8 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 <p align="center">
-  <img alt="projeto" src=".github/pjimagem.png" width="100%">
-
+  <img alt="https://github.com/Rauanny01/rocketseat/tree/main/github" src=".github/pjimagem.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
