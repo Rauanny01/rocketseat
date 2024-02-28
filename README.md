@@ -17,7 +17,9 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <br>
-
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/imagem.jpg" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
@@ -42,7 +44,7 @@ Você pode visualizar o layout ofical do projeto através [DESSE LINK](https://w
 
 ## 🌟 Considerações finais
 
-Ess curso me ajudou bastante, tanto na prática, como na teórica. Uma ótima explicação, que me fez ver o mundo da programação com outros olhos. Sem dúvidas, creio que adquiri conhecimentos ótimos!
+Esse curso me ajudou bastante, tanto na prática, como na teórica. Uma ótima explicação, que me fez ver o mundo da programação com outros olhos. Sem dúvidas, creio que adquiri conhecimentos ótimos!
 
 ## :memo: Licença
 
@@ -50,4 +52,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+Feito com ajuda e ♥ by Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
